@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, UranaiGetterForAndroidActivity!</string>
+    <string name="app_name">UranaiGetterForAndroid</string>
+    <string name="btnGetUranaiText">GetUranai</string>
+    <string name="btnPostText">PostToTwitter</string>
+
+</resources>
